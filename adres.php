@@ -17,9 +17,9 @@
 <body>
 <div class = "adres">
     <form action="" class = "forrm" method="POST">
-        <input type="text" name ="name" class = "inp" placeholder="Naam">
+        <input type="text" name ="name" class ="inp" placeholder="Naam">
         <br>
-        <input type="text" name = "post" class = "inp" placeholder="Postcode">
+        <input type="text" name ="post" class = "inp" placeholder="Postcode">
         <br>
         <input type="text" name = "home" class = "inp" placeholder="huisnummer">
         <br>
@@ -28,7 +28,6 @@
         <input type="submit" name = "submit" class = "subm" placeholder="stuur">
     </form>
 </div>
-
 </body>
 <footer>
     <div class="footerData">
